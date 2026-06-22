@@ -1,5 +1,4 @@
-2026.06.22 Monday
-10:41 32 /* 1. การตั้งค่าทั่วไปของหน้าเว็บ (body) */
+/* 1. การตั้งค่าทั่วไปของหน้าเว็บ (body) */
 body {
     font-family: Arial, sans-serif; /* ตั้งค่าฟอนต์หลัก */
     line-height: 1.6; /* ระยะห่างระหว่างบรรทัดเพื่อให้ง่ายต่อการอ่าน */
@@ -64,8 +63,3 @@ footer {
     color: white;
     margin-top: 20px;
 }
-10:41 32 // เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใช้ (Optional)
-document.addEventListener('DOMContentLoaded', function () {
-    console.log('Portfolio ของ PASSON พร้อมแล้ว!');
-});
-10:41 32 html_code_from_image.docx
